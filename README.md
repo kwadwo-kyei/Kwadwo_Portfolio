@@ -1,5 +1,6 @@
 # Kwadwo's_Portfolio
 Hult International Business School MSBA Program(2020-2021)
+*Work In Progress
 
 # [First-Coding-Attempt](https://github.com/kwadwo-kyei/First-Coding-Attempt)
 Treasure Hunt
