@@ -31,6 +31,7 @@ In this assignment, our team was tasked with conducting an analysis utilizing va
 * Develop a Jupyter Notebook on our process and findings 
 
 ![](https://github.com/kwadwo-kyei/Kwadwo_Portfolio/blob/main/image/GITHUB%20PIC.png)
+![](https://github.com/kwadwo-kyei/Kwadwo_Portfolio/blob/main/image/GITHUB%20PIC.png)
 
 
 # [Project 3: Visual-Storytelling-Through-Excel](https://github.com/kwadwo-kyei/Visual-Storytelling-Through-Excel)
