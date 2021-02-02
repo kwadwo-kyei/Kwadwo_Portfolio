@@ -40,3 +40,6 @@ situation through the use of graphs. These graphs would then be used to generate
 to the company on what needs to be improved in their financial situation.
 
 [Tableau Profile](https://public.tableau.com/profile/kwadwo1887#!/)
+
+# [Project 4: Call-Of-Duty-NLP-Text-Mining](https://github.com/kwadwo-kyei/Call-Of-Duty-NLP-Text-Mining)
+Analyzed over 20,000 twiiter tweets compromised of 3 e-sport teams and their followers. The purpose of this research was to investogate the relationship between the polarity in e-sport team tweets and the tweets of its followers. Do positive team tweets warrant positive tweets from their followers or do positive tweets from e-sport teams result in negative tweets from its followers. How do e-sport team followers react to the tweets of various teams, is it in a positive or negative manner.
