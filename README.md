@@ -48,3 +48,17 @@ Project Deliverables includes:
 - An R Script for team tweets analysis
 - R script for team follower's tweets
 - Powerpoint on findings
+
+# [Project 5: Regression-Model-Development](https://github.com/kwadwo-kyei/Regression-Model-Development)
+For this assignment, I was tasked with using the information from our chef course case to build a predictive model on a continuous response variable (Y-variable). This assignment encompassed feature engineering, model preparation, variable selection, and model development. The resgression models used were OLS Regression, Lasso Regression and ARD regression.
+
+Project Deliverables includes:
+- An ipynb python file
+
+# [Project 6: Automobile-Database-System](https://github.com/kwadwo-kyei/Automobile-Database-System)
+The purpose of this project was to create a database management system in support of a local automobile dealership. This database system is meant to cover and support a variety of services the dealership plans to offer in the near future. These extra services include but are not limited to customer car maintenance, car upgrades, payment plans and custom insurance packages meant to fit and ensure the needs of each vehicle. 
+
+Project Deliverables includes:
+- An R Script for team tweets analysis
+- R script for team follower's tweets
+- Powerpoint on findings
